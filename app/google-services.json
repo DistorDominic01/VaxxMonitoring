@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550111812312",
+    "project_id": "vaxxmonitoring",
+    "storage_bucket": "vaxxmonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550111812312:android:4599962b6baa7337b115ad",
+        "android_client_info": {
+          "package_name": "com.example.vaxxmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550111812312-hq6dkl4ubups47gmboetpt10ss5pqh5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKkOQhT9k4tqJFS1z3Qj8xCA9k1bq1uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550111812312-hq6dkl4ubups47gmboetpt10ss5pqh5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

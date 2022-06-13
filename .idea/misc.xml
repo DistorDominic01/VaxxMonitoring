@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/anim_vector.xml" value="0.1" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_activitylog_24.xml" value="0.1835" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.146" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_brightness_3_24.xml" value="0.1835" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.1465" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_keyboard_arrow_right_24.xml" value="0.1835" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_message_24.xml" value="0.1835" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_baseline_person_outline_24.xml" value="0.128" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/rounded_edittext.xml" value="0.128" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable-v24/rounded_edittext2.xml" value="0.1595" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable/email_roundedtext.xml" value="0.128" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable/ic_add.xml" value="0.1175" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable/ic_launcher_background.xml" value="0.114" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/drawable/ic_person.xml" value="0.1175" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/activity_forgot_password.xml" value="0.4466666666666667" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/activity_login.xml" value="0.6" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/activity_settings.xml" value="0.28489583333333335" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/activity_signup.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/app_bar_sign_up.xml" value="0.1529888551165147" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/appbar_home_drawer.xml" value="0.559375" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/content_home.xml" value="0.559375" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/headerfile.xml" value="0.559375" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/home_fragment.xml" value="0.27203647416413373" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/intro_activity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/item_add.xml" value="0.4466666666666667" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/item_email.xml" value="0.559375" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/item_image.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/item_info.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/profile_fragment.xml" value="0.22" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/settings_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/layout/toolbar.xml" value="0.1540020263424519" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2675925925925926" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/menu/main_main.xml" value="0.5497435897435897" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/menu/menu.xml" value="0.11851851851851852" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1525" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/xml/pref_main.xml" value="0.27152988855116517" />
+        <entry key="..\:/Android/VaxxMonitoring/app/src/main/res/xml/root_preferences.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
